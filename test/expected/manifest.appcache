@@ -6,6 +6,7 @@ test.js
 test.css
 folder_one/one.css
 folder_one/one.js
+folder_one/sub_folder/sub_folder.js
 folder_two/two.js
 folder_two/two.css
 
